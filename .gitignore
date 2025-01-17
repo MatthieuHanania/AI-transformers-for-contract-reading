@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.venv/
+results/
+custom_camembert_ner/
